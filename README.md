@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![](intro.gif)
 
 <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=ttengwang.ttengwang" alt="visitor badge"/>
